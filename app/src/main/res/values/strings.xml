@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Blockchain</string>
+    <string name="exchange_rate">Exchange Currency</string>
+
+    <string name="exchange_rate_error">Error. Could not load exchange rates</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="exchange_rates_empty_list">Exchange rates not found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
